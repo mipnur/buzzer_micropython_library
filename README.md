@@ -11,7 +11,7 @@ along with the **datasheets of the transistor and the passive buzzer used**.
 
 ## 📦 Repository Contents
 
-- `buzzer.py` — Main library file
+- `buzzer_lib.py` — Main library file
 - `examples/` — Raspberry Pi Pico examples
 - `datasheets/`
   - NPN transistor datasheet
