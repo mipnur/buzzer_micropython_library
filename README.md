@@ -1,4 +1,4 @@
-# 📢 MicroPython Passive Buzzer Library  
+# MicroPython Passive Buzzer Library  
 ### Raspberry Pi Pico
 
 This library allows you to control a **passive buzzer** using **MicroPython** on a  
@@ -9,7 +9,7 @@ along with the **datasheets of the transistor and the passive buzzer used**.
 
 ---
 
-## 📦 Repository Contents
+## Repository Contents
 
 - `buzzer_lib.py` — Main library file
 - `examples/` — Raspberry Pi Pico examples
@@ -19,7 +19,7 @@ along with the **datasheets of the transistor and the passive buzzer used**.
 
 ---
 
-## 🔧 Requirements
+## Requirements
 
 - Raspberry Pi Pico / Pico W
 - MicroPython installed
@@ -30,7 +30,7 @@ along with the **datasheets of the transistor and the passive buzzer used**.
 
 ---
 
-## 🔌 Hardware Connection
+## Hardware Connection
 
 The buzzer **must not be connected directly** to a GPIO pin.  
 An **NPN transistor** is used to safely drive the buzzer.
@@ -44,7 +44,7 @@ An **NPN transistor** is used to safely drive the buzzer.
 
 ---
 
-## 🎼 Features
+## Features
 
 - PWM tone generation
 - Melody playback
