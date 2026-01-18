@@ -53,7 +53,7 @@ An **NPN transistor** is used to safely drive the buzzer.
 
 ---
 
-## 🎵 Musical Notes
+## Musical Notes
 
 ```python
 do = 262; re = 294; mi = 330; fa = 349; sol = 392; la = 440; si = 494
